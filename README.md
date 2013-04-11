@@ -3,5 +3,3 @@ Eclipse
 AMATERAS UML: Module eclipse UML
 un compte GIT(troll)
 Des connaissances avancées en ProgObj        ;)
-
-Le caca c'est délicieux
